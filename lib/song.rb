@@ -4,7 +4,6 @@ class Song
   
     def song 
       @title = title 
-      
     end   
   
 end 
